@@ -9,7 +9,7 @@
     "start:dev": "webpack serve",
     "build": "webpack --mode production"
   },
-  "author": "",
+  "author": "Borz Bahadori",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0",
