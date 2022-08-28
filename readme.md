@@ -1,6 +1,3 @@
-# Develop_search_buttun
-
-
 # Wie startest du das Projekt?
 
 1. npm install
